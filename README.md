@@ -1,6 +1,6 @@
 # SQL Event Parking Booking Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project showcases how SQL was used to solve a real business problem for the UK Gospel Music Festival.
 
@@ -10,7 +10,7 @@ This project demonstrates the practical application of SQL to solve a real busin
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 The event team needed to determine which attendees had booked event tickets but had not reserved parking.
 
@@ -20,7 +20,7 @@ SQL was used to compare ticket bookings with parking bookings and quickly identi
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - SQL
 - Relational Database
@@ -28,7 +28,7 @@ SQL was used to compare ticket bookings with parking bookings and quickly identi
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - SELECT
 - WHERE
@@ -43,24 +43,24 @@ SQL was used to compare ticket bookings with parking bookings and quickly identi
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
+
 SQL-Event-Parking-Analysis
 │
 ├── README.md
 ├── SQL Queries
-├── Screenshots
+├── Images
 │   ├── ER Diagram
 │   ├── SQL Query
 │   ├── Query Results
-│   └── Insights
-└── Assets
+│   └── Business Insights
+
+
 ```
 
----
-
-# 📸 Screenshots
+# Project Gallery
 
 ## 1. ER Diagram
 
@@ -94,7 +94,7 @@ Summary of the findings and how they were used to support operational decision m
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 - Identified attendees without parking bookings.
 - Reduced manual checking of booking records.
@@ -104,7 +104,7 @@ Summary of the findings and how they were used to support operational decision m
 
 ---
 
-# 🎯 Business Impact
+# Business Impact
 
 This project demonstrates how SQL can be used to solve a real operational challenge.
 
@@ -124,7 +124,7 @@ This project demonstrates how SQL can support operational planning, customer com
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible enhancements include:
 
@@ -132,17 +132,5 @@ Possible enhancements include:
 - Creating SQL views for reporting.
 - Building a Power BI dashboard from the booking database.
 - Adding booking trends and attendance analysis.
-
----
-
----
-
-# 👩🏾‍💼 About Me
-
-Hi, I'm **Liz Ayanniyi**.
-
-I'm a Business Analyst with a background in operations, process improvement and project delivery, currently expanding my technical skills through the Leep Data Technician Bootcamp.
-
-I enjoy using data to solve real business problems, improve processes and support informed decision-making. This portfolio showcases projects completed using Excel, SQL, Tableau, Power BI and Python, including practical solutions applied to real-world business scenarios.
 
 ---
