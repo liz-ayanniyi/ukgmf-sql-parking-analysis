@@ -139,3 +139,11 @@ Possible enhancements include:
 - Adding booking trends and attendance analysis.
 
 ---
+
+## Data Privacy
+
+This project is based on a real event management scenario using attendee registration data.
+
+To protect attendee privacy, all personal information shown in screenshots has been removed or obscured in accordance with UK GDPR. The original database and SQL files are not included in this public repository as they contain real event attendee information.
+
+---
