@@ -49,45 +49,53 @@ SQL-Event-Parking-Analysis
 ├── README.md
 ├── SQL Queries
 ├── Images
-│   ├── ER Diagram
+│   ├── Database Structure
 │   ├── SQL Query
 │   ├── Query Results
-│   └── Business Insights
+│   └── Business Outcome:Parking Analysis
 
 
 ```
 
 # Project Gallery
 
-## 1. ER Diagram
+## 1. Databse Structure
 
-Illustrates the relationship between the event ticket booking table and the parking booking table.
+The tickets table stores attendee details, ticket quantities and parking reservation information used to support event planning and operational decision-making.
 
-*(Insert screenshot here)*
+*Personal information has been removed or obscured in accordance with UK GDPR to protect attendee privacy.*
+
+![Database Structure](sql-database-structure.png)
 
 ---
 
-## 2. SQL Queries
+## 2. SQL Query
 
-SQL query used to compare ticket bookings against parking bookings and identify attendees without parking reservations.
+This SQL query identifies attendees who booked festival tickets but did not reserve event parking, allowing the event team to take proactive action before the festival.
 
-*(Insert screenshot here)*
+*Personal information has been removed or obscured in accordance with UK GDPR to protect attendee privacy.*
+
+![SQL Query](sql-query.png)
 
 ---
 
 ## 3. Query Results
 
-Output showing attendees who had booked event tickets but had not purchased parking.
+The query results highlight attendees without a parking reservation, enabling targeted reminder emails to be sent and reducing the risk of congestion or confusion on the event day.
 
-*(Insert screenshot here)*
+*Personal information has been removed or obscured in accordance with UK GDPR to protect attendee privacy.*
+
+![Query Results](sql-query-results.png)
 
 ---
 
-## 4. Insights
+## 4. Business Outcome: Parking Analysis
 
-Summary of the findings and how they were used to support operational decision making.
+This project demonstrates how SQL can be used to solve a real operational challenge by identifying attendees who required follow-up communication. The analysis supported more effective event planning and helped improve the attendee experience.
 
-*(Insert screenshot here)*
+*Personal information has been removed or obscured in accordance with UK GDPR to protect attendee privacy.*
+
+![Business Outcome](business-outcomeparking-analysis.png)
 
 ---
 
