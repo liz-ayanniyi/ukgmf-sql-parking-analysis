@@ -95,7 +95,7 @@ This project demonstrates how SQL can be used to solve a real operational challe
 
 *Personal information has been removed or obscured in accordance with UK GDPR to protect attendee privacy.*
 
-![Business Outcome](business-outcomeparking-analysis.png)
+![Business Outcome](business-outcome-parking-analysis.png)
 
 ---
 
