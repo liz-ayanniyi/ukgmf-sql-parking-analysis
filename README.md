@@ -12,11 +12,8 @@ This project demonstrates the practical application of SQL to solve a real busin
 
 ## Business Problem
 
-The event team needed to determine which attendees had booked event tickets but had not reserved parking.
-
-Manually checking hundreds of bookings would have been time consuming and prone to error.
-
-SQL was used to compare ticket bookings with parking bookings and quickly identify customers who required follow-up communication.
+The UK Gospel Music Festival required a way to identify attendees who had booked festival tickets but had not reserved parking. 
+This information was used to send targeted reminder emails before the event, helping attendees plan their journey and improving parking management on the day.
 
 ---
 
